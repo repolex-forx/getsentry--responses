@@ -1,0 +1,11 @@
+{
+  "org": "getsentry",
+  "repo": "responses",
+  "versions": [
+    {
+      "commit": "e68019c21a2d8ff0ab48484d4d6f1d81a3fc100b",
+      "tag": "",
+      "parsed_at": "2026-10-18T06:11:45.126493+00:00"
+    }
+  ]
+}
